@@ -1,2 +1,2 @@
 # Lyrics-Generator
-Generate lyrics of pop music using Tensorflow.
+Generate lyrics of pop music using Keras.
